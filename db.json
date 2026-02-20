@@ -17,7 +17,7 @@
       "valor": 50000.1234
     },
     {
-      "id_factura": "002",
+      "id_factura": "003",
       "categoria": "hogar",
       "nombre": "Maria",
       "numero_id": 11520158,
@@ -38,7 +38,7 @@
       "nombre": "Milton",
       "numero_id": 5402504,
       "correo": "Milton3payco@pruebas.com",
-      "valor": 54100.0000
+      "valor": 54100.121212
     },
     {
       "id_factura": "006",
@@ -46,7 +46,7 @@
       "nombre": "Jorge",
       "numero_id": 5402504,
       "correo": "Jorge3payco@pruebas.com",
-      "valor": 206175.0909
+      "valor": 206175.2222
     }
   ]
 }
